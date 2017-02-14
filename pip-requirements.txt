@@ -1,4 +1,4 @@
-argparse==1.2.1
+argparse==1.4.0
 boto==2.31.1
 cssmin==0.2.0
 Django==1.10.3
