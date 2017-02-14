@@ -13,7 +13,7 @@ ecdsa==0.13
 feedparser==5.2.1
 futures==3.0.5
 jsmin==2.2.1
-Markdown==2.4.1
+Markdown==2.6.8
 phonenumbers==6.3.0
 Pillow==2.5.3
 ply==3.4
