@@ -7,7 +7,7 @@ django-admin-steroids==1.0.7
 django-annoying==0.10.3
 django-chosen-mega==0.1.2
 django-localflavor==1.4.1
-django-suit==0.2.21
+django-suit==0.2.24
 django-wkhtmltopdf==3.1.0
 ecdsa==0.11
 feedparser==5.1.3
