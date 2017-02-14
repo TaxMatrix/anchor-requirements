@@ -44,7 +44,7 @@ astroid==1.1.1
 django-chroniker==1.0.0
 django-scheduler==0.8
 Fabric==1.10.2
-pylint==1.2.1
+pylint==1.6.5
 burlap==0.4.5
 django-database-size==0.3.0
 #selenium==2.53.6
