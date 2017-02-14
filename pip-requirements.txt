@@ -34,7 +34,7 @@ django-database-files-3000==1.0.1
 django-datetime-widget==0.9.3
 django-pipeline==1.6.11
 django-pipeline-forgiving==1.0.0
-html5lib==0.999
+html5lib==0.999999999
 icalendar==3.8.3
 logilab-common==0.61.0
 paramiko==2.0.2
