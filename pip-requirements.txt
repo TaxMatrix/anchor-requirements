@@ -52,7 +52,7 @@ selenium==3.0.2
 requests==2.13.0
 buildbot==0.9.4
 buildbot-slave==0.8.14
-jira==1.0.7
+jira==1.0.10
 
 # Revert once pull request is accepted
 #django-input-mask==2.0.0
