@@ -14,7 +14,7 @@ feedparser==5.2.1
 futures==3.0.5
 jsmin==2.2.1
 Markdown==2.6.8
-phonenumbers==6.3.0
+phonenumbers==8.2.0
 Pillow==2.5.3
 ply==3.4
 psutil==2.2.1
