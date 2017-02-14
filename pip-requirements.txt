@@ -3,7 +3,7 @@ boto==2.45.0
 cssmin==0.2.0
 Django==1.10.5
 django-admin-bootstrapped==2.5.7
-django-admin-steroids==1.0.2
+django-admin-steroids==1.0.7
 django-annoying==0.7.9
 django-chosen-mega==0.1.2
 django-localflavor==1.3
