@@ -1,5 +1,5 @@
 argparse==1.4.0
-boto==2.31.1
+boto==2.45.0
 cssmin==0.2.0
 Django==1.10.3
 django-admin-bootstrapped==2.5.7
