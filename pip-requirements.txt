@@ -14,7 +14,7 @@ feedparser==5.2.1
 #futures==2.2.0
 jsmin==2.2.1
 Markdown==2.6.8
-phonenumbers==8.2.0
+phonenumbers==8.3.0
 #Pillow==2.5.3
 Pillow==4.0.0
 ply==3.10
@@ -58,6 +58,10 @@ buildbot-waterfall-view==0.9.4
 buildbot-worker==0.9.4
 buildbot-www==0.9.4
 jira==1.0.10
+# Needed by buildbot.reporter.BuildbotStatusPush
+txrequests==0.9.5
+# Needed by buildbot.plugins.reporter.MailNotifier
+pyOpenSSL==16.2.0
 
 # Revert once pull request is accepted
 #django-input-mask==2.0.0
