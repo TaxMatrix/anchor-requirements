@@ -52,7 +52,7 @@ django-database-size==0.3.0
 selenium==3.0.2
 requests==2.13.0
 buildbot==0.9.4
-buildbot-console-view==0.9.4
+buildbot-console-view==0.9.5
 buildbot-slave==0.8.14
 buildbot-waterfall-view==0.9.4
 buildbot-worker==0.9.4
