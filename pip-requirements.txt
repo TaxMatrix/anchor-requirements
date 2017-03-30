@@ -23,7 +23,7 @@ psycopg2==2.6.2
 pycrypto==2.6.1
 PyPDF2==1.26.0
 python-magic==0.4.12
-pytz==2016.10
+pytz==2017.2
 PyYAML==3.12
 reportlab==3.3.0
 slimit==0.8.1
