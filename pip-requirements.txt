@@ -54,7 +54,7 @@ requests==2.13.0
 buildbot==0.9.4
 buildbot-console-view==0.9.4
 buildbot-slave==0.8.14
-buildbot-waterfall-view==0.9.4
+buildbot-waterfall-view==0.9.6
 buildbot-worker==0.9.4
 buildbot-www==0.9.4
 jira==1.0.10
