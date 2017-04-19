@@ -56,7 +56,7 @@ buildbot-console-view==0.9.4
 buildbot-slave==0.8.14
 buildbot-waterfall-view==0.9.4
 buildbot-worker==0.9.4
-buildbot-www==0.9.4
+buildbot-www==0.9.6
 jira==1.0.10
 # Needed by buildbot.reporter.BuildbotStatusPush
 txrequests==0.9.5
