@@ -61,7 +61,7 @@ jira==1.0.10
 # Needed by buildbot.reporter.BuildbotStatusPush
 txrequests==0.9.5
 # Needed by buildbot.plugins.reporter.MailNotifier
-pyOpenSSL==16.2.0
+pyOpenSSL==17.0.0
 
 # Revert once pull request is accepted
 #django-input-mask==2.0.0
