@@ -1,1 +1,26 @@
+python-vagrant==0.5.14
+
 pylint==1.6.5
+#TODO: change once 1.7 bug fixed: https://github.com/PyCQA/pylint/issues/1388
+#pylint==1.7.1
+
+#selenium==2.48.0
+#selenium==2.53.6
+#selenium==3.3.1
+selenium==3.3.3
+
+buildbot==0.9.5
+buildbot-console-view==0.9.5
+buildbot-waterfall-view==0.9.5
+buildbot-worker==0.9.5
+buildbot-www==0.9.5
+
+# Needed by buildbot.reporter.BuildbotStatusPush
+txrequests==0.9.5
+# Needed by buildbot.plugins.reporter.MailNotifier
+pyOpenSSL==16.2.0
+service_identity==16.0.0
+
+google-api-python-client==1.6.2
+httplib2==0.10.3
+apiclient==1.0.3
