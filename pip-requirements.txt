@@ -12,7 +12,7 @@ django-wkhtmltopdf==3.1.0
 ecdsa==0.13
 feedparser==5.2.1
 #futures==2.2.0
-jsmin==2.2.1
+jsmin==2.2.2
 Markdown==2.6.8
 phonenumbers==8.3.3
 #Pillow==2.5.3
