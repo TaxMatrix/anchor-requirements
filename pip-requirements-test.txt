@@ -19,7 +19,7 @@ buildbot-www==0.9.5
 txrequests==0.9.5
 # Needed by buildbot.plugins.reporter.MailNotifier
 pyOpenSSL==16.2.0
-service_identity==16.0.0
+service-identity==17.0.0
 
 google-api-python-client==1.6.2
 httplib2==0.10.3
