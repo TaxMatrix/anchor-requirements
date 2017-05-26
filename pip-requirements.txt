@@ -6,7 +6,7 @@ django-admin-bootstrapped==2.5.7
 django-admin-steroids==1.0.8
 django-annoying==0.10.3
 django-chosen-mega==0.1.2
-django-localflavor==1.4.1
+django-localflavor==1.5
 django-suit==0.2.24
 django-wkhtmltopdf==3.1.0
 ecdsa==0.13
