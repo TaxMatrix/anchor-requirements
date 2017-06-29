@@ -13,7 +13,7 @@ buildbot==0.9.5
 buildbot-console-view==0.9.5
 buildbot-waterfall-view==0.9.5
 buildbot-worker==0.9.5
-buildbot-www==0.9.5
+buildbot-www==0.9.9
 
 # Needed by buildbot.reporter.BuildbotStatusPush
 txrequests==0.9.5
