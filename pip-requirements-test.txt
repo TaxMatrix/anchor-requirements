@@ -7,7 +7,7 @@ pylint==1.6.5
 #selenium==2.48.0
 #selenium==2.53.6
 #selenium==3.3.1
-selenium==3.3.3
+selenium==3.8.0
 
 buildbot==0.9.5
 buildbot-console-view==0.9.5
