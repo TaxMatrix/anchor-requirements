@@ -1,7 +1,7 @@
 #argparse==1.2.1
 #boto==2.31.1
 cssmin==0.2.0
-Django==1.10.6
+Django==2.0.4
 django-admin-bootstrapped==2.5.7
 django-admin-steroids==1.0.8
 django-annoying==0.10.3
