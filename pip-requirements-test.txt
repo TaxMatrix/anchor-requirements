@@ -18,7 +18,7 @@ buildbot-www==0.9.5
 # Needed by buildbot.reporter.BuildbotStatusPush
 txrequests==0.9.5
 # Needed by buildbot.plugins.reporter.MailNotifier
-pyOpenSSL==16.2.0
+pyOpenSSL==18.0.0
 service_identity==16.0.0
 
 google-api-python-client==1.6.2
