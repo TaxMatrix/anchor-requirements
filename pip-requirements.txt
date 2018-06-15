@@ -46,7 +46,7 @@ astroid==1.4.9
 django-chroniker==1.0.3
 django-scheduler==0.8.3
 django-database-size==0.3.0
-requests==2.13.0
+requests==2.19.1
 
 # Revert once pull request is accepted
 #django-input-mask==2.0.0
