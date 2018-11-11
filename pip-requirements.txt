@@ -19,7 +19,7 @@ phonenumbers==8.3.3
 Pillow==4.0.0
 ply==3.10
 psutil==5.2.0
-psycopg2==2.7.1
+psycopg2==2.7.6.1
 pycrypto==2.6.1
 PyPDF2==1.26.0
 python-magic==0.4.13
