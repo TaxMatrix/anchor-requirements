@@ -23,4 +23,4 @@ service_identity==16.0.0
 
 google-api-python-client==1.6.2
 httplib2==0.10.3
-apiclient==1.0.3
+apiclient==1.0.4
