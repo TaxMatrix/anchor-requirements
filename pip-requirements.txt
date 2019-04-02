@@ -16,7 +16,7 @@ jsmin==2.2.1
 Markdown==2.6.8
 phonenumbers==8.3.3
 #Pillow==2.5.3
-Pillow==4.0.0
+Pillow==6.0.0
 ply==3.10
 psutil==5.2.0
 psycopg2==2.7.1
