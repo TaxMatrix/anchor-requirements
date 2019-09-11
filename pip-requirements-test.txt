@@ -12,7 +12,7 @@ selenium==3.3.3
 buildbot==0.9.5
 buildbot-console-view==0.9.5
 buildbot-waterfall-view==0.9.5
-buildbot-worker==0.9.5
+buildbot-worker==2.4.1
 buildbot-www==0.9.5
 
 # Needed by buildbot.reporter.BuildbotStatusPush
