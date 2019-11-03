@@ -39,7 +39,7 @@ html5lib==0.999999999
 icalendar==3.11.3
 logilab-common==1.4.0
 paramiko==2.1.2
-python-dateutil==2.6.0
+python-dateutil==2.8.1
 vobject==0.9.4.1
 #astroid==1.1.1
 astroid==1.4.9
