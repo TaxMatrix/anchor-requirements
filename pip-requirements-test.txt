@@ -11,7 +11,7 @@ selenium==3.3.3
 
 buildbot==0.9.5
 buildbot-console-view==0.9.5
-buildbot-waterfall-view==0.9.5
+buildbot-waterfall-view==2.5.1
 buildbot-worker==0.9.5
 buildbot-www==0.9.5
 
