@@ -21,6 +21,6 @@ txrequests==0.9.5
 pyOpenSSL==16.2.0
 service_identity==16.0.0
 
-google-api-python-client==1.6.2
+google-api-python-client==1.12.5
 httplib2==0.10.3
 apiclient==1.0.3
