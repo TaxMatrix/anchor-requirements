@@ -10,7 +10,7 @@ pylint==1.6.5
 selenium==3.3.3
 
 buildbot==0.9.5
-buildbot-console-view==0.9.5
+buildbot-console-view==3.1.0
 buildbot-waterfall-view==0.9.5
 buildbot-worker==0.9.5
 buildbot-www==0.9.5
