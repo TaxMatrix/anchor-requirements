@@ -1,6 +1,6 @@
 python-vagrant==0.5.14
 
-pylint==1.6.5
+pylint==2.8.2
 #TODO: change once 1.7 bug fixed: https://github.com/PyCQA/pylint/issues/1388
 #pylint==1.7.1
 
